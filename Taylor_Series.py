@@ -1,4 +1,4 @@
-#Ricardo Ferreira Gasparini - NUSP 3660211
+#Author_RFG_Kasparini
 #Exercício 3 - Cálculo de funções por séries de Taylor
 
 import math
