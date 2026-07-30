@@ -1,4 +1,4 @@
-#Ricardo Ferreira Gasparini - NUSP 3660211
+#Author: RFG - Kasparini
 #Exercício Programa 3 - Palpites na Megasena 2021
 
 
