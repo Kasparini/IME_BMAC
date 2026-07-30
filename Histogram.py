@@ -1,5 +1,5 @@
 
-# Aluno: Ricardo Ferreira Gasparini - NUSP 3660211
+# Author: RFG - Kasparini
 # Exercicio 4 - Histograma
 
 
