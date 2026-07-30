@@ -1,4 +1,4 @@
-#RFG_Author
+#RFG_Kasparini_Author
 #Exercício 1 - Sequência Fibonacce
 
 
