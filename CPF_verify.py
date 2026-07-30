@@ -1,5 +1,5 @@
-#Aluno: Ricardo Ferreira Gasparin
-#NUPS: 3660211
+#Author: RFG - Kasparini
+
 
 # Exercício 2 - Verificador CPF
 
