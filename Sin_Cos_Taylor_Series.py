@@ -1,4 +1,4 @@
-#Ricardo Ferreira Gasparini - NUSP 3660211
+#Author: RFG - Kasparini
 #Exercício Programa 2 - Cálculo de funções por séries de Taylor - Seno e Cosseno
 
 import math
