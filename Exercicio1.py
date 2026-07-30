@@ -1,4 +1,4 @@
-#Ricardo Ferreira Gasparini - NUSP 3660211
+#RFG_Author
 #Exercício 1 - Sequência Fibonacce
 
 
