@@ -1,4 +1,4 @@
-# Aluno - Ricardo Ferreira Gasparini NUSP 3660211
+# Author - RFG - Kasparini
 # Exercício Programa 1 - Dispensador de notas com opções
         
 
